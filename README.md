@@ -1,5 +1,5 @@
 
-### Olá, meu nome é Rafaela Júlia🥰👋🏼<br>Sou estudante do curso de ciência da computação! 2/8
+### Olá, meu nome é Rafaela Júlia🥰👋🏼
 
 
 #### Meus perfis:
