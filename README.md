@@ -9,7 +9,7 @@
 
 ![rafaelajuulia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelajuulia&show_icons=true&theme=tokyonight)
 
-#### Tecnologias que uso no meu dia:
+#### Tecnologias aprendidas:
 
 <div style ="display: inline_block">
  
