@@ -7,8 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafaela_juliaa_/)
 
 
-![rafaelajuulia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelajuulia&show_icons=true&theme=tokyonight)
-
 #### Tecnologias aprendidas:
 
 <div style ="display: inline_block">
